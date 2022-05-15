@@ -1,0 +1,30 @@
+*, *::before, *::after {
+
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+body {
+  padding: 0%;
+  margin: 0%;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  justify-content: space-around
+}
+
+.questions { 
+  display: flex;
+  justify-content: center;
+
+
+}
+
+
+
